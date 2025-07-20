@@ -34,32 +34,39 @@
 
 ---
 
-### 📈 Now Playing @ Cornell Tech
-- **Applied ML:** vision‑based defect detection for composite materials  
-- **Convex Optimization:** sparse routing for urban logistics  
-- **TA hopeful:** open to supporting Data Structures / Systems courses
+### 📈 Now @ Cornell Tech
+- **Product Studio (Fall ’25)** – interdisciplinary, 15‑week sprint where my team prototypes a data‑driven health‑tech product for an NYC industry sponsor. :contentReference[oaicite:0]{index=0}  
+- **CS 5785 Applied Machine Learning** – building end‑to‑end pipelines for classification, clustering and dimensionality reduction on image, text and sensor data. :contentReference[oaicite:1]{index=1}  
+- **CS 5787 Deep Learning** – training CNN/RNN models at scale while balancing compute, latency and fairness constraints. :contentReference[oaicite:2]{index=2}  
+- **ORIE 5381 Optimization for AI** – convex & large‑scale optimization techniques for routing, scheduling and resource‑allocation problems. :contentReference[oaicite:3]{index=3}  
+- **Startup Studio (Spring ’26)** – will co‑found a venture‑scale idea, prototype it, and pitch for Cornell Tech Startup Award funding. :contentReference[oaicite:4]{index=4}
 
 ---
 
 ### 🤝 Let’s Connect
 <p align="center">
-  <a href="mailto:bc729@cornell.edu"  title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="email icon"/>
+  <!-- Email -->
+  <a href="mailto:bc729@cornell.edu" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail icon"/>
   </a>
-  &nbsp;
+&nbsp;
+  <!-- GitHub -->
   <a href="https://github.com/beratcelik1" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="38" alt="github icon"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub icon"/>
   </a>
-  &nbsp;
+&nbsp;
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/beratcelik1" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="linkedin icon"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn icon"/>
   </a>
-  &nbsp;
+&nbsp;
+  <!-- Personal website -->
   <a href="https://www.beratcelik.dev" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=vercel" height="38" alt="website icon"/>
+    <img src="https://skillicons.dev/icons?i=chrome" height="40" alt="Website icon"/>
   </a>
-  &nbsp;
+&nbsp;
+  <!-- Résumé PDF -->
   <a href="https://www.beratcelik.dev/resume.pdf" title="Résumé (PDF)">
-    <img src="https://img.shields.io/badge/Resume-PDF-black?style=flat&logo=readthedocs&logoColor=white" height="28" alt="resume link"/>
+    <img src="https://skillicons.dev/icons?i=adobeacrobat" height="40" alt="Résumé PDF icon"/>
   </a>
 </p>
