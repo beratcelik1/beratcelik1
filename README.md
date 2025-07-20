@@ -45,9 +45,9 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <!-- Email -->
-  <a href="mailto:bc729@cornell.edu" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email icon"/>
+  <!-- X / Twitter -->
+  <a href="https://x.com/beratcelik0" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X icon"/>
   </a>
   &nbsp;&nbsp;
   <!-- LinkedIn -->
@@ -57,6 +57,7 @@
 </p>
 
 <p align="center">
-  🌐&nbsp;<a href="https://www.beratcelik.dev">www.beratcelik.dev</a>&nbsp;|&nbsp;
-  📄&nbsp;<a href="https://www.beratcelik.dev/resume.pdf">Résumé&nbsp;(PDF)</a>
+  🌐 <a href="https://www.beratcelik.dev">www.beratcelik.dev</a> | 
+  📄 <a href="https://www.beratcelik.dev/resume.pdf">Résumé (PDF)</a>
 </p>
+
