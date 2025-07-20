@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I’m Berat Celik</h1>
 
 <p align="center">
-  <b>CS MEng candidate @ Cornell Tech ’26</b> &nbsp;•&nbsp;
+  <b>MEng CS @ Cornell’26</b> &nbsp;•&nbsp;
   Ex‑SWE intern <em>(Commure / Athelas)</em> &nbsp;•&nbsp;
   Full‑stack & ML builder turning data into real‑world impact
 </p>
