@@ -26,7 +26,7 @@
 | Project | What it is | Impact / status |
 |---------|------------|-----------------|
 | **ForgeMind** | AI copilot plugin for Fusion 360 / CATIA / SolidWorks / NX | Flags out‑of‑spec features at design‑time → **‑25 % rework**, prevents 10+ assembly errors / release |
-| **JOBBOX** | Full‑stack gig‑economy marketplace (React + Node + MongoDB) | MVP in 10 weeks; onboarded 50+ early users and signed **$15 K** in pilot contracts |
+| **JOBBOX** | Full‑stack gig‑economy marketplace (React + Node + MongoDB) | MVP in 10 weeks; onboarded 20+ early users and signed pilot contracts |
 | **Healthdemic** | Patented wrist device + mobile app mapping epidemic contact networks | Eigenvector / Katz centrality model pinpoints high‑risk locations in real time |
 | **XFunds** | Crypto & NFT trading bots (Python) | Executed 2,500+ trades, yielding **38 % IRR** and enabling a mid‑five‑figure exit |
 | **Zero‑Carbon‑Ecosystem** | Blockchain that tokenizes the IPCC 1.5 °C carbon budget | 1st‑place at BC Hacks; issues 400 B $ZCARB tokens to price CO₂ per transaction |
