@@ -50,7 +50,3 @@
   <a href="https://www.linkedin.com/in/beratcelik1"><img src="https://img.shields.io/badge/LinkedIn-beratcelik1-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/beratcelik1"><img src="https://img.shields.io/badge/GitHub-beratcelik1-%23121011?style=flat-square&logo=github"></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratcelik1&show_icons=true&hide=issues&count_private=true" alt="Berat's GitHub stats">
-</p>
