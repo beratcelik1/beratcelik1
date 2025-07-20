@@ -42,12 +42,11 @@
 - **Startup Studio (Spring ’26)** – will co‑found a venture‑scale idea, prototype it, and pitch for Cornell Tech Startup Award funding.
 
 ---
-
 ### 🤝 Connect with Me
 <p align="center">
-  <!-- X / Twitter -->
-  <a href="https://x.com/beratcelik0" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X icon"/>
+  <!-- X -->
+  <a href="https://x.com/beratcelik0" title="X (formerly Twitter)">
+    <img src="https://cdn.simpleicons.org/x/ffffff?height=40" height="40" alt="X logo"/>
   </a>
   &nbsp;&nbsp;
   <!-- LinkedIn -->
@@ -60,4 +59,3 @@
   🌐 <a href="https://www.beratcelik.dev">www.beratcelik.dev</a> | 
   📄 <a href="https://www.beratcelik.dev/resume.pdf">Résumé (PDF)</a>
 </p>
-
